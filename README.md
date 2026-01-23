@@ -51,7 +51,6 @@ I'm a security-focused learner with hands-on experience in:
 - 🛠️ Build and publish **open-source security tools**
 - 📱 Reverse engineer **Android applications**
 - 🌐 Explore **IoT vulnerabilities & exploitation**
-- 🥋 Apply martial arts discipline to problem-solving
 
 ---
 
