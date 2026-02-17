@@ -20,7 +20,7 @@
   <img src="https://tryhackme-badges.s3.amazonaws.com/Ro0tk1e.png?update=1" width="200" alt="TryHackMe Badge"/>
 </p>
 
-- 🌍 **TryHackMe:** Top 8% Globally
+- 🌍 **TryHackMe:** Top 6% Globally
 - 🎪 Hosted first **University-level CTF Event**
 
 ---
