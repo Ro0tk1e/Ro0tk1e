@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Assad
+# 👋 Hi, I'm Asd
 
 **Cybersecurity Student** specializing in **Cryptography, Steganography, Reverse Engineering & Applied Security**
 ---
 ## 💼 Experience
 
 ### Team Triada
-**CTF Player & Operations Head**  
+**CTF Player & Developer**  
 *August 2025 – Present*
 
 - Lead operations and challenge development
@@ -20,7 +20,7 @@
   <img src="https://tryhackme-badges.s3.amazonaws.com/Ro0tk1e.png?update=1" width="200" alt="TryHackMe Badge"/>
 </p>
 
-- 🌍 **TryHackMe:** Top 6% Globally
+- 🌍 **TryHackMe:** Top 5% Globally
 - 🎪 Hosted first **University-level CTF Event**
 
 ---
@@ -89,8 +89,7 @@ I'm a security-focused learner with hands-on experience in:
 
 ## 📫 Let's Connect
 
-- 📧 **Email:** [championassad@gmail.com](mailto:championassad@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/mohammedassad2](https://www.linkedin.com/in/mohammedassad2)
+- 📧 **Email:** [asdtriada@gmail.com](mailto:championassad@gmail.com)
 
 ---
 
